@@ -1,1 +1,4 @@
 The fruits
+Mango
+Peach
+Strawberry

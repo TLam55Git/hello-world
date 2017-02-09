@@ -1,1 +1,4 @@
 The colors
+Blue
+Green
+Yellow
