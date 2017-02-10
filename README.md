@@ -14,5 +14,6 @@ _My Hello World_
   * Second sub 1
   * Second sub 2
 
-![Image of Yaktocat] (https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat]
+(https://octodex.github.com/images/yaktocat.png)
 
