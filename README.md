@@ -14,6 +14,6 @@ _My Hello World_
   * Second sub 1
   * Second sub 2
 
-![Image of Yaktocat]
+![My Image of Yaktocat]
 (images/download.jpg)
 
